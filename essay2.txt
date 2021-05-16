@@ -1,0 +1,4 @@
+All Installers
+Linux users may need to import RStudio's public code-signing key prior to installation, depending on the operating system's security policy.
+
+RStudio requires a 64-bit operating system. If you are on a 32 bit system, you can use an older version of RStudio.
